@@ -1,0 +1,71 @@
+body {
+  background-image: url(https://img5.goodfon.com/wallpaper/nbig/9/fd/by-pixabay-green-leaf-plant-flora-zelenyi-priroda-rasteniia.jpg);
+  background-repeat: no-repeat;
+  background-size: 50% 200%;
+  background-color: #c3f3d9;
+  box-sizing: border-box;
+}
+
+div {
+  background-color: rgb(255, 255, 255);
+  width: 45%;
+  height: 4%;
+  margin-left: 28%;
+  margin-top: 8%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  text-align: center;
+  font-size: larger;
+  font-family: link href="https://fonts.googleapis.com/css2?family=Akshar:wght@300&family=Montserrat:ital,wght@1,500&display=swap" rel="stylesheet";
+}
+
+h2 {
+  font-size: 3rem;
+  font-weight: bolder;
+  margin-top: -3rem;
+  margin-left: -7rem;
+}
+
+h3 {
+  color: #56B387;
+  display: flex;
+  margin-left: 8rem;
+  margin-top: -1.7rem;
+  font-size: 11px;
+}
+
+h4 {
+  color: #C3C3C3;
+  display: flex;
+  text-align: left;
+  margin-top: -1rem;
+  margin-left: 1rem; 
+  font-size: 11px;
+}
+
+input {
+  display: flex;
+  height: 3rem;
+  width: 20rem;
+  padding-left: 1rem;
+  margin-left: -6rem;
+  margin-bottom: .5rem;
+  border-radius: 20px;
+  background-color: #F2F2F2;
+  border-color: transparent; 
+}
+
+button {
+  background: #04C02B;
+  color: white;
+  font-size: medium;
+  font-weight: bold;
+  width: 20rem;
+  height: 3rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: -6rem; 
+  border-radius: 2rem;
+  border-color: transparent;
+}
